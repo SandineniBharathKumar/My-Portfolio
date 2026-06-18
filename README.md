@@ -1,2 +1,2 @@
 # My-Portfolio
-this sis my protfolio
+this is my protfolio
